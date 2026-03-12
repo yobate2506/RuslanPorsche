@@ -242,3 +242,9 @@ form .btn {
         transform: translateX(0);
     }
 }
+
+@media (max-width: 520px) {
+    h1 {
+        font-size: 60px;
+    }
+}
